@@ -37,4 +37,5 @@ Inputs:
 
 > ESRGAN / Real-ESRGAN
 
-<img src="https://i7.imageban.ru/out/2022/09/23/d230ec0f3d67c206bf51ad80e25808d7.png" width="300" />  <img src="https://i4.imageban.ru/out/2022/09/23/ea6d0a09af042f37f9cdf1a079228e85.png" width="300" />  
+<img src="https://i6.imageban.ru/out/2022/09/27/6d7dd669fed935dd8d87d747a00e07e9.png" width="300" />  <img src="https://i7.imageban.ru/out/2022/09/27/0448b68052615e29554cea6bd8872feb.png" width="300" />  
+
