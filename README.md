@@ -16,7 +16,7 @@ The parameter `type` is responsible for choosing the model. If this parameter is
 
 Inputs:
 
-* `metod`: SR_GAN
+* `mothod`: SR_GAN
 * `input_data`: 
   * image in binary format
   * binary variable `type` to activate a particular model
