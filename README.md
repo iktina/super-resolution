@@ -29,7 +29,7 @@ Inputs:
 
 > ESRGAN / Real-ESRGAN
 
-<img src="https://i4.imageban.ru/out/2022/09/27/1a143b359dd38eeded52baded9f19e28.png" width="300" />  <img src="https://i6.imageban.ru/out/2022/09/27/081b3bffe874572450e9947183ff8dfa.png" width="300" />  
+<img src="https://i3.imageban.ru/out/2022/09/27/6f951646c162b6b4c156efb96df7512a.png" width="300" />  <img src="https://i7.imageban.ru/out/2022/09/27/a6d93cb69147b775896509aa3e88cc94.png" width="300" />  
 
 > Input
 
@@ -37,5 +37,5 @@ Inputs:
 
 > ESRGAN / Real-ESRGAN
 
-<img src="https://i6.imageban.ru/out/2022/09/27/6d7dd669fed935dd8d87d747a00e07e9.png" width="300" />  <img src="https://i7.imageban.ru/out/2022/09/27/0448b68052615e29554cea6bd8872feb.png" width="300" />  
+<img src="https://i6.imageban.ru/out/2022/09/27/07864907bd8993295823188519c80dfd.png" width="300" />  <img src="https://i3.imageban.ru/out/2022/09/27/aec81c1434f3b98a0da12a4c93ab3a60.png" width="300" />  
 
