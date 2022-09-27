@@ -25,7 +25,7 @@ Inputs:
 
 > Input
 
-[![imageban](https://i1.imageban.ru/out/2022/09/23/43ee31df2e595bb44b8d7b317638c885.jpg)](https://imageban.ru)
+![imageban](https://i1.imageban.ru/out/2022/09/23/43ee31df2e595bb44b8d7b317638c885.jpg)
 
 > ESRGAN / Real-ESRGAN
 
