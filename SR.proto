@@ -4,7 +4,7 @@ package SR_GAN;
 
 message Q {
     bytes image = 1;
-    bool type = 2;
+    string model = 2;
 }
 
 message A {
