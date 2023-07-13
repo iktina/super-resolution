@@ -8,7 +8,7 @@ message Q {
 }
 
 message A {
-    bytes output_img = 1;
+    string output_imgs = 1;
 }
 
 service  SR_GAN {
